@@ -119,7 +119,7 @@ var tileTypes = {
 1: {color: "#5aa457", floor:floorTypes.ground, image:"images/grass.jpeg", speed:150},
 2: {color: "#e8bd7a", floor:floorTypes.ground, image:"images/sand.png", speed:150},
 0: {color: "#286625", floor:floorTypes.solid, image:""},
-4: {color: "#678fd9", floor:floorTypes.water, image:"images/flowingWater.gif"},
+4: {color: "#5e95d9", floor:floorTypes.water, image:""},
 5: {color: "#4a1a08", floor:floorTypes.path, image:"", speed:100},
 6: {color: "#c1c1c1", floor:floorTypes.path, image:"", speed:100},
 7: {color: "#656777", floor:floorTypes.path, image:"", speed:100}
