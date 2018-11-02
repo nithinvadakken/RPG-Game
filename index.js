@@ -120,7 +120,7 @@ var floorTypes = {
 
 var tileTypes = {
     3: {color: "#685b48", floor:floorTypes.solid, image:""},
-    1: {color: "#5aa457", floor:floorTypes.ground, image:"images/grass.jpeg", speed:150},
+    1: {color: "#5aa457", floor:floorTypes.ground, image:"", speed:150},
     2: {color: "#dab275", floor:floorTypes.ground, image:"", speed:150},
     0: {color: "#286625", floor:floorTypes.solid, image:""},
     4: {color: "#5e95d9", floor:floorTypes.water, image:""},
