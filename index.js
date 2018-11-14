@@ -127,7 +127,8 @@ var tileTypes = {
     4: {color: "#5e95d9", floor:floorTypes.water, image:""},
     5: {color: "#4a1a08", floor:floorTypes.path, image:"", speed:100},
     6: {color: "#c1c1c1", floor:floorTypes.path, image:"", speed:100},
-    7: {color: "#656777", floor:floorTypes.path, image:"", speed:100}
+    7: {color: "#656777", floor:floorTypes.path, image:"", speed:100},
+    8: {color: "#ff002b", floor:floorTypes.path, image:"", speed:100},
 };
 
 var viewport = {
